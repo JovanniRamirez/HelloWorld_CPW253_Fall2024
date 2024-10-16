@@ -56,6 +56,7 @@ class MainActivity : AppCompatActivity() {
             buttonLeft.setText(leftNum.toString())
             buttonRight.setText(rightNum.toString())
 
+
         }
 
         buttonRight.setOnClickListener{
